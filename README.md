@@ -1,2 +1,2 @@
 # caltech-ml-assignments
-Solutions to assignments in Prof. Abu-Mostafa's Learning from Data course
+Assignments in Prof. Abu-Mostafa's Learning from Data course (Caltech)
